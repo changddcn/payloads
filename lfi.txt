@@ -133,3 +133,4 @@
 /var/log/mysql/mysql.log
 /var/log/mysql/mysql-slow.log
 /var/mysql.log
+C:\WINDOWS\System32\license.rtf
